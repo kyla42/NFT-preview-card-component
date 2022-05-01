@@ -52,7 +52,7 @@ p {
     line-height: 1.5;
     padding-top: 1.6rem;
 
-    @media (max-width: 600px) {
+    @media (max-width: 37.5em) {
         font-size: 1.6rem;
     }
 }
@@ -70,7 +70,7 @@ p {
         0 2.6rem 0 4.9rem rgba(12, 24, 44, 0.6);
     transition: all .3s ease-in-out;
 
-    @media (max-width: 600px) {
+    @media (max-width: 37.5em) {
         max-width: 32.5rem;
         height: 54.3rem;
     }
@@ -81,7 +81,7 @@ p {
         max-height: 30.2rem;
         transition: all 3s ease;
 
-        @media (max-width: 600px) {
+        @media (max-width: 37.5em) {
             max-width: 27.7rem;
             max-height: 27.7rem;
         }
@@ -116,7 +116,7 @@ p {
             background-repeat: no-repeat;
             z-index: 1;
 
-            @media (max-width: 600px) {
+            @media (max-width: 37.5em) {
                 top: 11.45rem;
                 left: 11.45rem;
             }
@@ -152,7 +152,7 @@ p {
                 letter-spacing: 0.04rem;
             }
 
-            @media (max-width: 600px) {
+            @media (max-width: 37.5em) {
                 padding: 1.6rem 0;
             }
         }
